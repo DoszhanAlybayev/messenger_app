@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401538334141",
+    "project_id": "mini-messenger-app-6ec28",
+    "storage_bucket": "mini-messenger-app-6ec28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401538334141:android:37c7b6ce6f388e53ada6d4",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401538334141-v0caip10lfekfqkfnae9duldjlnetkr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-PUWMnQ4zas7KVkYoFOsh1v9PFVyddY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401538334141-v0caip10lfekfqkfnae9duldjlnetkr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

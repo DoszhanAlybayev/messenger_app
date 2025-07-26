@@ -1,0 +1,51 @@
+.gitignore# Miscellaneous
+.DS_Store
+.flutter_settings
+.idea
+.vscode/
+
+# Build artifacts
+.dart_tool/
+.packages
+.pub-cache/
+build/
+*.iml
+*.lock
+
+# Flutter/Dart related
+.flutter-plugins
+.flutter-plugins-dependencies
+.gradle
+.local
+.android/
+.ios/
+.symlinks/
+android/app/src/debug/AndroidManifest.xml
+android/app/src/profile/AndroidManifest.xml
+android/app/src/release/AndroidManifest.xml
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.xcodeproj/project.pbxproj
+ios/Flutter/Flutter.xcodeproj/xcuserdata/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.pbxproj
+ios/Runner.xcodeproj/xcuserdata/
+
+# Firebase
+lib/firebase_options.dart # Игнорировать сгенерированный файл Firebase options
+android/app/google-services.json # Игнорировать файл Google Services JSON
+ios/Runner/GoogleService-Info.plist # Игнорировать файл Google Services Plist
+firebase.json # Игнорировать файл firebase.json, если он содержит конфиденциальные данные или генерируется
+
+# IDE-specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+
+# Package manager files
+pubspec.lock
+
+# macOS
+.DS_Store
